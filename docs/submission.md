@@ -1,4 +1,6 @@
-# Competition submission — ORBITAL (posted 19 Nov 2026 as a bonus entry)
+# Competition submission — ORBITAL — POSTED 19 Nov 2026 (bonus entry)
+
+Live: https://github.com/hyper-elements/hyper-elements/discussions/283 (Discussion #283, Challenge Submissions)
 
 Target: GitHub Discussions → **Challenge Submissions** in `hyper-elements/hyper-elements`
 Repository: https://github.com/dunoil/orbital
