@@ -1,0 +1,39 @@
+ORBITAL
+
+Meridian Observation Network · MERIDIAN-1
+
+TONIGHT'S SKY, {{first_name}}
+
+The best night of the month: MERIDIAN-1 crosses the whole network on one orbital sweep, eight visible passes, four of them prime — high, bright, and slow enough to follow with the naked eye. One prediction file produced every alert, chart and card in this kit.
+
+8 passes · 6 stations · 4 prime
+
+Worth setting an alarm for — 4 prime passes
+
+P-2210 peaks 19:09 at 71° over station KUP. The brightest pass of the night — visible even before full dark.
+
+P-2211 peaks 19:10 at 63° over station BJO. Crosses the whole sky; give it the ridge, not the beach.
+
+P-2213 peaks 19:36 at 55° over station AMB. High southern arc over the bay. Reflections on still water.
+
+P-2216 peaks 05:17 at 66° over station MND. Dawn pass. Coffee first, then the point.
+
+TONIGHT, ACROSS THE NETWORK
+
+Pass | Peak | Max el. | Path
+P-2209 DEN | 18:47 | 38° | W → NW
+P-2210 KUP · PRIME | 19:09 | 71° | SW → NE
+P-2211 BJO · PRIME | 19:10 | 63° | SW → NE
+P-2212 MKS | 19:13 | 47° | S → NE
+P-2213 AMB · PRIME | 19:36 | 55° | W → E
+P-2214 MND | 19:39 | 58° | W → E
+P-2215 KUP | 20:45 | 24° | NW → N
+P-2216 MND · PRIME | 05:17 | 66° | NW → SE
+
+See the full night chart (https://orbital.example/passes)
+
+Orbital · Meridian Observation Network · Predictions computed from one night file
+
+One night file rendered this — alert email, passes page, station charts and pass cards — with Hyper Elements.
+
+You receive pass alerts because you observe with the Meridian network. Unsubscribe ({{unsubscribe_url}})
